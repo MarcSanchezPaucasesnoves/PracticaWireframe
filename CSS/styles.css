@@ -1,0 +1,21 @@
+/* ESTILS DE LA PAGINA */
+
+body {
+	margin: 0px;
+	top: 0;
+	font-family: arial;
+}
+
+/* NAVEGACIO */
+
+.MenuNavegacio {
+	top: 0;
+	padding: 1.5vh;
+	background-color: #FFE8D6;
+	display: flex;
+	position: sticky;
+	align-items: center;
+	gap: 20px;
+	border-bottom: 2px solid black;
+	z-index: 10;
+}
