@@ -5,17 +5,58 @@ body {
 	top: 0;
 	font-family: arial;
 }
+a {
+	color: black;
+	text-decoration: none;
+}
 
 /* NAVEGACIO */
 
 .MenuNavegacio {
-	top: 0;
-	padding: 1.5vh;
-	background-color: #FFE8D6;
-	display: flex;
+	height: 70px;
+	background-color: #e7e7e7;
 	position: sticky;
+	display: flex;
+	gap: 120px;
+	justify-content: space-around;
 	align-items: center;
-	gap: 20px;
-	border-bottom: 2px solid black;
-	z-index: 10;
+}
+
+/* BOTONS */
+
+.BotoFondoTaronja {
+	justify-content: center;
+	align-items: center;
+	border: 0px solid black;
+	border-radius: 4px;
+	background-color: #ff7a00;
+	color: white;
+	height: 40px;
+	width: 140px;
+}
+.BotoFondoBlanc {
+	justify-content: center;
+	align-items: center;
+	border: 2px solid #ffbe82;
+	border-radius: 4px;
+	background-color: white;
+	color: #ff7a00;
+	height: 40px;
+	width: 140px;
+}
+
+/* CARACTERISTIQUES GENERALS */
+
+.Flex {
+	display: flex;
+}
+.FlexGap45 {
+	gap: 45px;
+}
+.FlexGap15 {
+	gap: 15px;
+}
+.ImatgeReescalable {
+	max-width: 100%;
+	height: auto;
 }
