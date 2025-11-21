@@ -46,6 +46,24 @@ a {
 .Color5B {
 	background-color: #b0b0b0;
 }
+.Color6 {
+	color: #bdbdbd;
+}
+.Color6B {
+	background-color: #bdbdbd;
+}
+.Color7 {
+	color: #595959;
+}
+.Color7B {
+	background-color: #595959;
+}
+.Color8 {
+	color: #919191;
+}
+.Color8B {
+	background-color: #919191;
+}
 .ColorWhite {
 	color: white;
 }
@@ -97,6 +115,16 @@ a {
 	height: 40px;
 	width: 140px;
 }
+.BotoOtherInformation {
+	height: 55px;
+	width: 160px;
+	border-radius: 15px;
+	align-items: center;
+}
+.BotoOtherInformation:hover {
+	background-color: white;
+	color: black;
+}
 
 /* APARTATS ESPECIFICS */
 
@@ -113,6 +141,10 @@ a {
 }
 .TableLatestWorks tr:nth-child(even) td {
     background-color: #919191;
+}
+.VoraOtherInformation {
+	padding-right: 10px;
+	border-right: 2px solid white;
 }
 
 /* CARACTERISTIQUES GENERALS */
@@ -147,17 +179,26 @@ a {
 .JustifySelfStretch {
 	justify-self: stretch;
 }
+.AlignItemsCenter {
+	align-items: center;
+}
 .Gap45 {
 	gap: 45px;
 }
 .Gap15 {
 	gap: 15px;
 }
+.Gap5 {
+	gap: 5px;
+}
 .Margin0 {
 	margin: 0px;
 }
 .MarginBottom5 {
 	margin-bottom: 5px;
+}
+.MarginBottom60 {
+	margin-bottom: 60px;
 }
 .Margin100 {
 	margin: 100px;
@@ -192,11 +233,20 @@ a {
 .MaxWidthImatgeTargeta {
 	max-width: 579px;
 }
+.MaxWidthImatgePerfil {
+	max-width: 429px;
+}
 
 /* Texte */
 
 .TextAlignCenter {
 	text-align: center;
+}
+.FontSize30 {
+	font-size: 30px;
+}
+.FontSize15 {
+	font-size: 20px;
 }
 td {
 	font-size: 30px;
@@ -206,4 +256,10 @@ td {
 td::before {
 	content: "★ ";
 	color: gold;
+}
+
+/* Vores */
+
+.BorderRadius360 {
+	border-radius: 360px;
 }
