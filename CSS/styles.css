@@ -162,6 +162,9 @@ a {
 	padding-right: 10px;
 	border-right: 2px solid white;
 }
+.ScrollOverflow {
+	overflow-x: auto;
+}
 
 /* CARACTERISTIQUES GENERALS */
 
