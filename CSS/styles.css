@@ -13,7 +13,18 @@ a {
 	color: black;
 	text-decoration: none;
 }
-
+h1 {
+	font-size: 60px;
+}
+h2 {
+	font-size: 45px;
+}
+h3 {
+	font-size: 35px;
+}
+h4 {
+	font-size: 20px;
+}
 /* COLORS */
 
 .Color1 {
@@ -228,6 +239,12 @@ a {
 .Margin0 {
 	margin: 0px;
 }
+.MarginTop0 {
+	margin-top: 0px;
+}
+.MarginTop30 {
+	margin-top: 30px;
+}
 .MarginBottom5 {
 	margin-bottom: 5px;
 }
@@ -302,6 +319,9 @@ a {
 }
 .FontSize15 {
 	font-size: 20px;
+}
+.FontWeightBold {
+	font-weight: bold;
 }
 td {
 	font-size: 30px;
