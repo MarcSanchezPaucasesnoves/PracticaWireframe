@@ -86,9 +86,10 @@ a {
 /* NAVEGACIO */
 
 .MenuNavegacio {
+	top: 10px;
 	height: 70px;
-	position: sticky;
 	display: flex;
+	position: sticky;
 	gap: 120px;
 	justify-content: space-around;
 	align-items: center;
@@ -96,6 +97,8 @@ a {
 	margin-bottom: 4px;
 }
 .VoraNavegacio {
+	top: 84px;
+	position: sticky;
 	margin-left: 30px;
 	margin-right: 30px;
 	border-top: 2px solid #e7e7e7;
