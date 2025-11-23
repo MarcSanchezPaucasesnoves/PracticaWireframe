@@ -78,4 +78,8 @@
 	#FooterBotoFormulari {
 		max-width: 230px;
 	}
+	#LatestWorksDiv {
+		margin-left: 3%;
+		margin-right: 3%;
+	}
 }

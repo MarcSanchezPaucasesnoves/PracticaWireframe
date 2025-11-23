@@ -1,0 +1,69 @@
+#SquarePicturesCollagesServices {
+	display: none;
+}
+@media (max-width: 629px) {
+	#AmagarSmartphone {
+		display: none;
+	}
+	#TitleSection {
+		margin: 20px;
+		margin-bottom: 100px;
+	}
+	h1, h3 {
+		font-size: 50px;
+	}
+	#PTargeta {
+		display: none;
+	}
+	#TitleTargeta {
+		font-size: 25px;
+	}
+	#ImatgesAbout {
+		max-width: 100%;
+		height: auto;
+	}
+	.MaxWidthImatgeTargeta {
+		margin-left: 3%;
+		margin-right: 3%;
+	}
+	#CollageServices {
+		margin-left: 3%;
+		margin-right: 3%;
+	}
+	#PicturesCollagesServices {
+		display: none;
+	}
+	#SquarePicturesCollagesServices {
+		display: block;
+	}
+	#OtherInformationGehedgerTitle {
+		font-size: 90px;
+	}
+	#OtherInformationGehedgerText {
+		display: none;
+	}
+	#PTitleFooterTablet {
+		display: none;
+	}
+	#FormFlexFooterDiv {
+		flex-direction: column;
+		align-items: center;
+	}
+	#FooterTablet {
+		width: 100%;
+	}
+	#FooterBotoFormulari {
+		max-width: 190px;
+	}
+	#ImatgesXarxesSocialsFooterDiv {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+	}
+	#Footer {
+		padding-left: 3%;
+		padding-right: 3%;
+	}
+	#ImatgesXarxesSocialsFooterDiv {
+		column-gap: 40px;
+	}
+}
