@@ -73,4 +73,8 @@
 	.MaxWidthImatgePerfil {
 		max-width: 330px;
 	}
+	#ServicesText {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
 }
