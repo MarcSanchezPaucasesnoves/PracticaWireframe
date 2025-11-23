@@ -37,7 +37,8 @@
 		display: block;
 	}
 	#OtherInformationGehedgerTitle {
-		font-size: 90px;
+		font-size: 60px;
+		margin-bottom: 0px;
 	}
 	#OtherInformationGehedgerText {
 		display: none;
@@ -65,5 +66,11 @@
 	}
 	#ImatgesXarxesSocialsFooterDiv {
 		column-gap: 40px;
+	}
+	.BotoOtherInformation {
+		width: 320px;
+	}
+	.MaxWidthImatgePerfil {
+		max-width: 330px;
 	}
 }
