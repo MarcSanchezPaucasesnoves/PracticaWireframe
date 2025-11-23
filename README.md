@@ -3,4 +3,6 @@ Aquest és un repositori fet per Marc Sánchez Alonso.
 És una activitat que consisteix en fer una pàgina web d'un wireframe que hagi fet un company.
 El company que m'ha tocat a mi és n'Adrià Vidal.
 ### Link de la pàgina web
-- https://marcsanchezpaucasesnoves.github.io/PracticaWireframe/
+- https://marcsanchezpaucasesnoves.github.io/wireframe2/
+### Link del meu repositori de GitHub
+- https://github.com/MarcSanchezPaucasesnoves/wireframe2
